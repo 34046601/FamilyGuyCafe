@@ -1,0 +1,117 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(102, 102, 102); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.Top1{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100%;
+
+}
+
+.l{
+    background-color: rgb(255, 0, 0);
+    height: 200px;
+    width: 60%;
+    float: left;
+    color: rgb(255, 255, 0);
+}
+
+.m{
+    
+    height: 300px;
+    width: 10%;
+    float: left;
+}
+
+.r{
+    background-color: rgb(255, 0, 0);
+    height: 200px;
+    width: 30%;
+    float: left;
+    
+    color: rgb(255, 255, 0);
+}
+
+.sml{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 40%;
+    float: left;
+    
+    color: rgb(251, 255, 0);
+}
+
+
+.sml1{
+    font-size: larger;
+    background-color: rgb(255, 255, 0);
+    height: 100px;
+    width: 40%;
+    float: left;
+    color: rgb(255, 0, 0);
+}
+
+.smll123{
+    font-size: larger;
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100%;
+    float: left;
+    color: rgb(255, 255, 0);
+}
+
+li{
+    float: left;
+
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li a{
+   display: block;
+   color:rgb(255, 255, 0);
+   font-size: 20px;
+   text-align: center;
+   text-decoration: none;
+   padding-top: 5px;
+   padding-left: 20px;
+}
+
+li a:hover{
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    background-color: rgb(255, 0, 0);
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  html *
+  {
+     font-family: fantasy !important;
+  }
+
+ 
+
+
+body{
+    background-image:url('images/coffee.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
