@@ -4,7 +4,7 @@ body{   /*this body section will add styles to the whole page*/
     
 } 
 
-
+.hidden-overlay {color: red;}
 
 .Top1{
     background-color: rgb(255, 0, 0);
@@ -31,8 +31,8 @@ body{   /*this body section will add styles to the whole page*/
 .r{
     background-color: rgb(255, 0, 0);
     height: 200px;
-    width: 30%;
-    float: left;
+    width: 722px;
+    float: right;
     
     color: rgb(255, 255, 0);
 }
@@ -111,6 +111,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+
+
+.info img {float:left}
 
 
 
